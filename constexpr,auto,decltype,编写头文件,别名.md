@@ -17,15 +17,15 @@ constexpr int sz = size();//只有当size是一个constexpr函数时才是一条
 两种方法进行类型别名的声明，一种是typeof ，一种是using.
 
 ```c++
-typeof double wages;//wages是double的同义词
-typeof wages zlq,*p;//zlq是double的同义词，p是double *的同义词
+typedef double wages;//wages是double的同义词
+typedef wages zlq,*p;//zlq是double的同义词，p是double *的同义词
 using SI = Sales_item;
 ```
 
 当对引用和指针使用别名时，要额外注意
 
 ```c++
-typeof char *pstring;
+typedef char *pstring;
 const pstring p;//p是指向字符变量的常量指针。
 ```
 
