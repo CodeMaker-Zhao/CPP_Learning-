@@ -1,2 +1,0 @@
-C:\Users\zhaoliqun\source\repos\ClassForC++\Debug\ClassForC++.exe
-C:\Users\zhaoliqun\source\repos\ClassForC++\Debug\ClassForC++.pdb

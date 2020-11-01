@@ -1,4 +1,0 @@
-﻿  源.cpp
-C:\Users\zhaoliqun\source\repos\ClassForC++\SALES_DATA.h(7,1): warning C4099: “Sales_data”: 类型名称以前使用“struct”现在使用的是“class”
-C:\Users\zhaoliqun\source\repos\ClassForC++\SALES_DATA.h(6): message : 参见“Sales_data”的声明
-  ClassForC++.vcxproj -> C:\Users\zhaoliqun\source\repos\ClassForC++\Debug\ClassForC++.exe
